@@ -9,13 +9,12 @@
 // @grant         GM_getResourceURL
 // @grant         GM_getValue
 // @grant         GM_setValue
-// @resource      css     https://github.com/Bl4Cc4t/GoodTwitter2/raw/master/twitter.gt2eb.style.css
-// @resource      cssMap  https://github.com/Bl4Cc4t/GoodTwitter2/raw/master/twitter.gt2eb.style.css.map
-// @resource      i18n    https://github.com/Bl4Cc4t/GoodTwitter2/raw/master/twitter.gt2eb.i18n.json
+// @resource      css     https://github.com/shirtjs/GoodTwitter2/raw/master/twitter.gt2eb.style.css
+// @resource      i18n    https://github.com/shirtjs/GoodTwitter2/raw/master/twitter.gt2eb.i18n.json
 // @require       https://code.jquery.com/jquery-3.5.1.min.js
 // @require       https://gist.github.com/raw/2625891/waitForKeyElements.js
-// @updateURL     https://github.com/Bl4Cc4t/GoodTwitter2/raw/master/twitter.gt2eb.user.js
-// @downloadURL   https://github.com/Bl4Cc4t/GoodTwitter2/raw/master/twitter.gt2eb.user.js
+// @updateURL     https://github.com/shirtjs/GoodTwitter2/raw/master/twitter.gt2eb.user.js
+// @downloadURL   https://github.com/shirtjs/GoodTwitter2/raw/master/twitter.gt2eb.user.js
 // ==/UserScript==
 
 (function($, waitForKeyElements) {
